@@ -9,7 +9,7 @@ CyberSentinel analyzes network and login logs, learns what "normal" traffic look
 Built by **Kimora Taylor** 
 
 ## 🔴 Live Demo
-[Check it out →](https://YOUR-STREAMLIT-LINK-HERE)
+[Check it out →](https://cyber-threat-detection-himsmjgwrriwoeq6xba85k.streamlit.app/)
 
 ## What It Does
 I trained an Isolation Forest model on simulated network logs to detect 5 types of threats:
